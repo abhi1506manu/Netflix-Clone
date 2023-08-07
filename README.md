@@ -5,9 +5,9 @@ This is a netflix clone created using react. In this project work, I have used t
 
 <h2> Screenshots </h2>
 
-![Screenshot](N-1.png)
+![Netflix-1](https://i.imgur.com/ANGdfUj.png)
 
-![Screenshot](N-2.png)
+![Netflix-2](https://i.imgur.com/qqAxVA8.png)
 
 <h2>QuickStarted</h2>
 
